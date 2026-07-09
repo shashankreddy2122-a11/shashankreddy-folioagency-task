@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route,useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
-import Stand from "./components/stand";
+import Stand from "./components/Stand";
 import WhoAreWe from "./components/WhoAreWe";
 import WhatWeDo from "./components/WhatWeDo";
 import Partnership from "./components/Partnership";

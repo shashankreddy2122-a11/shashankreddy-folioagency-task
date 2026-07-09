@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply box-border;
+  }
+  
+  body {
+    @apply m-0 p-0 font-sans antialiased;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  .work-section {
+  background-size: 100% auto;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+
+@media (max-width: 1024px) {
+  .work-section {
+    background-size: auto 100%;
+    background-position: center;
+  }
+}
+
+
+@media (max-width: 640px) {
+  .work-section {
+    background-size: auto 80%;
+    background-position: top center;
+  }
+}
+}

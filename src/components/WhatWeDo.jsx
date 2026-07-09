@@ -37,7 +37,7 @@ const WhatWeDo = () => {
     {/* Strategy */}
     <div className="bg-gray-50 rounded-2xl p-4 hover:shadow-lg hover:shadow-purple-500/30 transition-all cursor-pointer flex items-center gap-4 md:flex-col">
       <img
-        src="/assests/strategy.PNG"
+        src="/assests/strategy.png"
         alt="Strategy"
         className="w-24 h-24 sm:w-28 sm:h-28 md:w-full md:h-auto object-contain flex-shrink-0"
       />
@@ -49,7 +49,7 @@ const WhatWeDo = () => {
     {/* Branding */}
     <div className="bg-gray-50 rounded-2xl p-4 hover:shadow-lg hover:shadow-purple-500/30 transition-all cursor-pointer flex items-center gap-4 md:flex-col">
       <img
-        src="/assests/branding.PNG"
+        src="/assests/branding.png"
         alt="Branding"
         className="w-24 h-24 sm:w-28 sm:h-28 md:w-full md:h-auto object-contain flex-shrink-0"
       />
@@ -61,7 +61,7 @@ const WhatWeDo = () => {
     {/* Interactive */}
     <div className="bg-gray-50 rounded-2xl p-4 hover:shadow-lg hover:shadow-purple-500/30 transition-all cursor-pointer flex items-center gap-4 md:flex-col">
       <img
-        src="/assests/interactive.PNG"
+        src="/assests/interactive.png"
         alt="Interactive"
         className="w-24 h-24 sm:w-28 sm:h-28 md:w-full md:h-auto object-contain flex-shrink-0"
       />
@@ -90,7 +90,7 @@ const WhatWeDo = () => {
         {/* Left - Achievement Image */}
         <div className="lg:w-1/2 mb-12 lg:mb-0 relative flex justify-center">
           <img 
-            src="/assests/achievement.PNG" 
+            src="/assests/achievement.png" 
             alt="Achievement" 
             className="w-full max-w-xs md:max-w-sm h-auto object-contain relative z-10"
           />

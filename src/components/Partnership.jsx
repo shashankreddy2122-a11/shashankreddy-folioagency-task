@@ -55,7 +55,7 @@ const Partnership = () => {
               </div>
               <div className="flex justify-center items-center h-[220px] mb-6">
               <img 
-                src="/assests/sapiens.PNG" 
+                src="/assests/sapiens.png" 
                 alt="Sapiens" 
                 className="max-w-full max-h-full object-contain"
               />
@@ -95,7 +95,7 @@ const Partnership = () => {
   {/* Image */}
   <div className="flex justify-center items-center h-[250px] mb-6">
     <img
-      src="/assests/bento vol 2.PNG"
+      src="/assests/bento vol 2.png"
       alt="Bento Vol. 2"
       className="max-w-full max-h-full object-contain"
     />
@@ -138,7 +138,7 @@ const Partnership = () => {
   {/* Image */}
   <div className="flex justify-center items-center h-[250px] mb-6">
     <img
-      src="/assests/bento 3D illustration.PNG"
+      src="/assests/bento 3D illustration.png"
       alt="Bento 3D Illustration"
       className="max-w-full max-h-full object-contain"
     />
@@ -181,7 +181,7 @@ const Partnership = () => {
   {/* Image */}
   <div className="flex justify-center items-center h-[250px] mb-6">
     <img
-      src="/assests/bento vol 3.PNG"
+      src="/assests/bento vol 3.png"
       alt="Bento Vol. 3"
       className="max-w-full max-h-full object-contain"
     />
@@ -224,7 +224,7 @@ const Partnership = () => {
   {/* Image */}
   <div className="flex justify-center items-center h-[250px] mb-6">
     <img
-      src="/assests/sapiens 2.PNG"
+      src="/assests/sapiens 2.png"
       alt="Sapiens: Man"
       className="max-w-full max-h-full object-contain"
     />
